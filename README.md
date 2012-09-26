@@ -31,4 +31,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 CADET - Center for Advances in Digital Entertainment Technologies
-    funded by the Austrian Research Promotion Agency (http://www.ffg.at)
+funded by the Austrian Research Promotion Agency (http://www.ffg.at)
